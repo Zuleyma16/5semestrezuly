@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "aa45b712d100c3b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "91985456c695cf71",
+        "type": "tabs",
+        "dimension": 65.26418786692759,
+        "children": [
+          {
+            "id": "071a83e97cc7f919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bienvenido.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3c274384072a9e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/Semana1/Dia1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d294af9ffe5b5a10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/Semana1/Dia2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1959e7cca8c72d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Dia1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d5a35386574910c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Dia2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e5e8eda5d943393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/Dia3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7bea04f3667318e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/Dia5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15aefe333743ad04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Dia5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "920f797804fb2fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Dia4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "6944a670d5ea5d98",
+        "type": "tabs",
+        "dimension": 34.73581213307241,
+        "children": [
+          {
+            "id": "5857ad7d63992840",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8627f73b18dc926",
+    "type": "split",
+    "children": [
+      {
+        "id": "c53b62cb1df7f02d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "013d3a7f64cd6f48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "599e69b279de5517",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "662c0d0b0a735d53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2dd5dd8c97e57ea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "61afa8e1c00434b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61fbca68fc4f374f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Arquitectura de Computadoras/Dia4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74deabd6773390b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Arquitectura de Computadoras/Dia4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9254b2e882ec68f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb0b32b96e571c28",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Arquitectura de Computadoras/Dia4.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "920f797804fb2fca",
+  "lastOpenFiles": [
+    "ZDJM_T_UNIDAD1_T1.PDF/Arquitectura.pdf",
+    "ZDJM_T_UNIDAD1_T1.PDF/Transistores.pdf",
+    "Arquitectura de Computadoras/Dia5.md",
+    "Arquitectura de Computadoras/Dia4.md",
+    "WhatsApp Image 2024-08-28 at 8.53.28 AM (1).jpeg",
+    "WhatsApp Image 2024-08-28 at 8.53.28 AM (2).jpeg",
+    "WhatsApp Image 2024-08-28 at 8.53.28 AM (3).jpeg",
+    "WhatsApp Image 2024-08-28 at 8.53.28 AM.jpeg",
+    "Arquitectura de Computadoras/Dia2.md",
+    "Arquitectura de Computadoras/Dia1.md",
+    "Telecomunicaciones/Dia5.md",
+    "Telecomunicaciones/Dia3.md",
+    "Telecomunicaciones/Semana1/Dia2.md",
+    "Telecomunicaciones/Semana1/Dia1.md",
+    "Bienvenido.md",
+    "WhatsApp Image 2024-08-22 at 8.30.37 AM.jpeg",
+    "WhatsApp Image 2024-08-22 at 8.27.49 AM.jpeg",
+    "Arquitectura de Computadoras/Dia3",
+    "Arquitectura de Computadoras",
+    "Telecomunicaciones/Semana1",
+    "Telecomunicaciones/Semana1.md",
+    "Telecomunicaciones",
+    "Escalidraw"
+  ]
+}
