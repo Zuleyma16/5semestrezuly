@@ -6,7 +6,7 @@
       {
         "id": "91985456c695cf71",
         "type": "tabs",
-        "dimension": 65.26418786692759,
+        "dimension": 80.43052837573386,
         "children": [
           {
             "id": "071a83e97cc7f919",
@@ -115,14 +115,38 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8cbb828b4a36e9ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad2/9 de Septiembre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f383850fcfd97e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad2/9 de Septiembre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       },
       {
         "id": "6944a670d5ea5d98",
         "type": "tabs",
-        "dimension": 34.73581213307241,
+        "dimension": 19.569471624266143,
         "children": [
           {
             "id": "5857ad7d63992840",
@@ -198,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura de Computadoras/Dia4.md",
+                "file": "Unidad2/9 de Septiembre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura de Computadoras/Dia4.md",
+                "file": "Unidad2/9 de Septiembre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura de Computadoras/Dia4.md"
+                "file": "Unidad2/9 de Septiembre.md"
               }
             }
           }
@@ -260,13 +284,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "920f797804fb2fca",
+  "active": "f383850fcfd97e2b",
   "lastOpenFiles": [
+    "Unidad2/5 de Septiembre.md",
+    "Unidad2/9 de Septiembre.md",
+    "Arquitectura de Computadoras/Dia4.md",
+    "Unidad2",
     "README.md",
     "ZDJM_T_UNIDAD1_T1.PDF/Arquitectura.pdf",
     "ZDJM_T_UNIDAD1_T1.PDF/Transistores.pdf",
     "Arquitectura de Computadoras/Dia5.md",
-    "Arquitectura de Computadoras/Dia4.md",
     "WhatsApp Image 2024-08-28 at 8.53.28 AM (1).jpeg",
     "WhatsApp Image 2024-08-28 at 8.53.28 AM (2).jpeg",
     "WhatsApp Image 2024-08-28 at 8.53.28 AM (3).jpeg",
