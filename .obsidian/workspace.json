@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia1.md",
+                "file": "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia1.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia2.md",
+                "file": "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia2.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia3.md",
+                "file": "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia3.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia5.md",
+                "file": "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia5.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia3.md",
+                "file": "Telecomunicaciones/Unidad2/ZDM_T_U2_Dia3.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,14 +158,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia4.md",
+                "file": "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17c5a22909566dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       },
       {
         "id": "6944a670d5ea5d98",
@@ -246,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia4.md",
+                "file": "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia4.md",
+                "file": "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia4.md"
+                "file": "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md"
               }
             }
           }
@@ -308,34 +320,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b3e06d526bf3c13",
+  "active": "17c5a22909566dc0",
   "lastOpenFiles": [
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Actividad 2.3. Lectura de la unidad.pdf",
+    "Telecomunicaciones/ZDJM_T_U2_Actividad 2.3. Lectura de la unidad.pdf",
+    "Telecomunicaciones/mso5476.tmp",
+    "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U1_Doc de desarmado de computadoras.pdf",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Investigacion.pdf",
+    "Bienvenido.md",
+    "Telecomunicaciones/Unidad2/ZDM_T_U2_Dia3.md",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia1.md",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia4.md",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia2.md",
+    "Telecomunicaciones/Unidad2/ZDJM_AC_U2_Investigacion.pdf",
+    "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia5.md",
+    "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia2.md",
+    "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia3.md",
+    "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia1.md",
     "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U2_Práctica 1.1.Fotografía del servidor.pdf",
     "Arquitectura de Computadoras/Unidad 1/msoD819.tmp",
     "~$JM_AC_U2_Práctica 1.1.Fotografía del servidor.docx",
     "~WRD1724.tmp",
     "ZDJM_AC_U2_Práctica 1.1.Fotografía del servidor.docx",
-    "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U1_Actividad 1.2.Línea del tiempo de las computadoras.pdf",
-    "Arquitectura de Computadoras/ZDJM_AC_U1_Actividad 1.1.Tabla comparativa.pdf",
-    "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U1_Actividad 1.1.Tabla comparativa.pdf",
-    "ZDJM_AC_U1_Actividad 1.1.Tabla comparativa.pdf",
-    "msoE039.tmp",
-    "Telecomunicaciones/Unidad2/ZDM_AC_U2_Investigación.pdf",
-    "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia3.md",
-    "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia1.md",
-    "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia2.md",
-    "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia5.md",
-    "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia3.md",
-    "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia2.md",
-    "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia1.md",
     "Arquitectura de Computadoras/Unidad 2/ZDM_AC_U2_Dia1.md",
     "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia5.md",
     "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia4.md",
     "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia2.md",
     "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia1.md",
-    "Sin título.md",
     "Telecomunicaciones/Semana1/Sin título.md",
-    "Bienvenido.md",
     "Unidad2/18 de septiembre.md",
     "w.md",
     "Pasted image 20240918074342.png",
