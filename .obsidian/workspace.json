@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad1/Dia1.md",
+                "file": "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia1.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad1/Dia2.md",
+                "file": "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia2.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura de Computadoras/Unidad 1/Dia1.md",
+                "file": "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia1.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura de Computadoras/Unidad 1/Dia2.md",
+                "file": "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia2.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad1/Dia3.md",
+                "file": "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia3.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad1/Dia5.md",
+                "file": "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia5.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura de Computadoras/Unidad 1/Dia5.md",
+                "file": "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia5.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitectura de Computadoras/Unidad 1/Dia4.md",
+                "file": "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia4.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Telecomunicaciones/Unidad2/12 de Septiembre.md",
+                "file": "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia3.md",
                 "mode": "source",
                 "source": false
               }
@@ -156,9 +156,11 @@
             "id": "2b3e06d526bf3c13",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Arquitectura de Computadoras/Unidad 1/zdjm_ac_unidad1.pdf"
+                "file": "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia4.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -244,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquitectura de Computadoras/Unidad 1/zdjm_ac_unidad1.pdf",
+                "file": "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquitectura de Computadoras/Unidad 1/zdjm_ac_unidad1.pdf",
+                "file": "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquitectura de Computadoras/Unidad 1/zdjm_ac_unidad1.pdf"
+                "file": "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia4.md"
               }
             }
           }
@@ -308,31 +310,36 @@
   },
   "active": "2b3e06d526bf3c13",
   "lastOpenFiles": [
-    "Arquitectura de Computadoras/Unidad 1/Reporte de la instalación de elementary OS.pdf",
-    "Arquitectura de Computadoras/Unidad 1/zdjm_ac_unidad1.pdf",
-    "Arquitectura de Computadoras/Unidad 1/Dia5.md",
-    "Arquitectura de Computadoras/Unidad 1/Dia4.md",
-    "Arquitectura de Computadoras/Unidad 1/Dia2.md",
-    "Arquitectura de Computadoras/Unidad 1/Dia1.md",
-    "Arquitectura de Computadoras/Unidad 1/Arquitectura de computadoras DOC.pdf",
-    "Telecomunicaciones/Unidad2/Modulación de señales_U2.pdf",
+    "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U2_Práctica 1.1.Fotografía del servidor.pdf",
+    "Arquitectura de Computadoras/Unidad 1/msoD819.tmp",
+    "~$JM_AC_U2_Práctica 1.1.Fotografía del servidor.docx",
+    "~WRD1724.tmp",
+    "ZDJM_AC_U2_Práctica 1.1.Fotografía del servidor.docx",
+    "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U1_Actividad 1.2.Línea del tiempo de las computadoras.pdf",
+    "Arquitectura de Computadoras/ZDJM_AC_U1_Actividad 1.1.Tabla comparativa.pdf",
+    "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U1_Actividad 1.1.Tabla comparativa.pdf",
+    "ZDJM_AC_U1_Actividad 1.1.Tabla comparativa.pdf",
+    "msoE039.tmp",
+    "Telecomunicaciones/Unidad2/ZDM_AC_U2_Investigación.pdf",
+    "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia3.md",
+    "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia1.md",
+    "Telecomunicaciones/Unidad2/ZDM_AC_U2_Dia2.md",
+    "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia5.md",
+    "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia3.md",
+    "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia2.md",
+    "Telecomunicaciones/Unidad1/ZDM_AC_U1_Dia1.md",
+    "Arquitectura de Computadoras/Unidad 2/ZDM_AC_U2_Dia1.md",
+    "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia5.md",
+    "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia4.md",
+    "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia2.md",
+    "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia1.md",
     "Sin título.md",
-    "Arquitectura de Computadoras/Unidad 1",
-    "Telecomunicaciones/Unidad1/Dia5.md",
-    "Telecomunicaciones/Unidad1/Dia3.md",
-    "Telecomunicaciones/Unidad2/9 de Septiembre.md",
-    "Telecomunicaciones/Unidad2/5 de Septiembre.md",
-    "Telecomunicaciones/Unidad2/12 de Septiembre.md",
     "Telecomunicaciones/Semana1/Sin título.md",
     "Bienvenido.md",
     "Unidad2/18 de septiembre.md",
-    "Arquitectura de Computadoras/Unidad 2/9 de septiembre.md",
-    "Arquitectura de Computadoras/Unidad 2",
     "w.md",
-    "Arquitectura de computadoras DOC.pdf",
     "Pasted image 20240918074342.png",
     "Pasted image 20240918074005.png",
-    "Telecomunicaciones/Semana2",
     "Pasted image 20240912074237.png",
     "Pasted image 20240912074031.png",
     "Pasted image 20240912073732.png",
@@ -343,11 +350,7 @@
     "Pasted image 20240912072427.png",
     "Unidad2/9 de Septiembre.md",
     "Unidad2/5 de Septiembre.md",
-    "Unidad2",
     "README.md",
-    "Telecomunicaciones/Unidad1/ZDJM_T_UNIDAD1_T1.PDF/Arquitectura.pdf",
-    "Telecomunicaciones/Unidad1/Dia2.md",
-    "Telecomunicaciones/Unidad1/Dia1.md",
     "Telecomunicaciones/Semana1.md"
   ]
 }
