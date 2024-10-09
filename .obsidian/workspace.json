@@ -175,9 +175,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b9016a1c5c2d334",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Unidad 2/ZDJM_AC_U2_Actividad 2.1 y 2.2_Dia2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       },
       {
         "id": "6944a670d5ea5d98",
@@ -258,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md",
+                "file": "Arquitectura de Computadoras/Unidad 2/ZDJM_AC_U2_Actividad 2.1 y 2.2_Dia2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md",
+                "file": "Arquitectura de Computadoras/Unidad 2/ZDJM_AC_U2_Actividad 2.1 y 2.2_Dia2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md"
+                "file": "Arquitectura de Computadoras/Unidad 2/ZDJM_AC_U2_Actividad 2.1 y 2.2_Dia2.md"
               }
             }
           }
@@ -320,15 +332,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17c5a22909566dc0",
+  "active": "6b9016a1c5c2d334",
   "lastOpenFiles": [
+    "Arquitectura de Computadoras/Unidad 2/ZDM_AC_U2_Dia1.md",
+    "Arquitectura de Computadoras/Unidad 2/ZDJM_AC_U2_Actividad 2.1 y 2.2_Dia2.md",
+    "Bienvenido.md",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md",
     "Telecomunicaciones/Unidad2/ZDJM_T_U2_Actividad 2.3. Lectura de la unidad.pdf",
     "Telecomunicaciones/ZDJM_T_U2_Actividad 2.3. Lectura de la unidad.pdf",
     "Telecomunicaciones/mso5476.tmp",
     "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U1_Doc de desarmado de computadoras.pdf",
-    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md",
     "Telecomunicaciones/Unidad2/ZDJM_T_U2_Investigacion.pdf",
-    "Bienvenido.md",
     "Telecomunicaciones/Unidad2/ZDM_T_U2_Dia3.md",
     "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia1.md",
     "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia4.md",
@@ -342,8 +356,6 @@
     "Arquitectura de Computadoras/Unidad 1/msoD819.tmp",
     "~$JM_AC_U2_Práctica 1.1.Fotografía del servidor.docx",
     "~WRD1724.tmp",
-    "ZDJM_AC_U2_Práctica 1.1.Fotografía del servidor.docx",
-    "Arquitectura de Computadoras/Unidad 2/ZDM_AC_U2_Dia1.md",
     "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia5.md",
     "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia4.md",
     "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia2.md",
