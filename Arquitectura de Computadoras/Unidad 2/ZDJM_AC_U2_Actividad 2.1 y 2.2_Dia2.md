@@ -34,3 +34,4 @@ Estas diferencias hacen que los sistemas x64 sean más adecuados para usuarios q
 2. **i386**: También conocido como x86, es una arquitectura de 32 bits desarrollada por Intel. Fue muy popular en PCs de escritorio y servidores antes de la adopción generalizada de arquitecturas de 64 bits.
     
 3. **mips64el**: Es una arquitectura de 64 bits de MIPS (Microprocessor without Interlocked Pipeline Stages) con endianismo pequeño (little-endian). Se utiliza en sistemas embebidos y algunos servidores debido a su eficiencia y flexibilidad.
+FUENTE:[Tipos de procesadores: modelos y características (internetizado.com)](https://www.internetizado.com/tipos-de-procesadores)
