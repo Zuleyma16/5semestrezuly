@@ -42,12 +42,190 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comparación de computadoras.md",
+                "file": "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comparación de computadoras"
+              "title": "ZDJM_AC_U3_Dia 5"
+            }
+          },
+          {
+            "id": "a939a7b92e6b1f51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZDJM_AC_U3_Dia 5"
+            }
+          },
+          {
+            "id": "6f438448e05a4564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZDJM_AC_U3_Dia 4"
+            }
+          },
+          {
+            "id": "83836e28fbbe7a2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZDJM_AC_U3_Dia 3"
+            }
+          },
+          {
+            "id": "85ef62e94c1dd827",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZDJM_AC_U3_Dia 1"
+            }
+          },
+          {
+            "id": "f13aa74d9badec77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZDJM_AC_U3_Dia 5"
+            }
+          },
+          {
+            "id": "18219d9b5c7a077f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "331d69bcd3906304",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Telecomunicaciones/Unidad2/ZDJM_T_U2_Investigacion.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ZDJM_T_U2_Investigacion"
+            }
+          },
+          {
+            "id": "a194d745c6dad09b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_DIFERENCIA ENTRE GPU Y CPU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZDJM_AC_U3_DIFERENCIA ENTRE GPU Y CPU"
+            }
+          },
+          {
+            "id": "658392d797daf5c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tabla comparativa entre amd64 y ARM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tabla comparativa entre amd64 y ARM"
+            }
+          },
+          {
+            "id": "34fa3959f6a0bd5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Preguntas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preguntas"
+            }
+          },
+          {
+            "id": "9e7d038ce63867d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Telecomunicaciones/Unidad4/Preguntas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Preguntas"
+            }
+          },
+          {
+            "id": "ebd50e41e9873240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Como saber que computadora usar con que tipo de procesador(Intel Xeon, AMDA EPYC)..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Como saber que computadora usar con que tipo de procesador(Intel Xeon, AMDA EPYC)."
+            }
+          },
+          {
+            "id": "0b87d4fc2bbd7580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZDJM_AC_U3_Dia 5"
             }
           },
           {
@@ -375,7 +553,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 10
       },
       {
         "id": "6944a670d5ea5d98",
@@ -444,8 +622,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -535,52 +712,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "599e69b279de5517",
+  "active": "a194d745c6dad09b",
   "lastOpenFiles": [
-    "ZDJM_AC_U3_Definiciones.md",
-    "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia2.md",
+    "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 5.md",
+    "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 4.md",
+    "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 3.md",
+    "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 2.md",
+    "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Dia 1.md",
+    "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_Definiciones.md",
+    "Telecomunicaciones/Unidad2/ZDM_T_U2_Dia3.md",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia4.md",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia2.md",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia1.md",
+    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Investigacion.pdf",
+    "Sin título.md",
+    "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_DIFERENCIA ENTRE GPU Y CPU.md",
+    "Presentación.md",
+    "Pasted image 20241118114024.png",
+    "Pasted image 20241118113256.png",
+    "Pasted image 20241118111259.png",
+    "Pasted image 20241118110533.png",
+    "Pasted image 20241118110232.png",
+    "Pasted image 20241118104128.png",
+    "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia1.md",
+    "Como saber que computadora usar con que tipo de procesador(Intel Xeon, AMDA EPYC)..md",
+    "Telecomunicaciones/Unidad4/Preguntas.md",
+    "Tabla comparativa entre amd64 y ARM.md",
+    "Arquitectura de Computadoras/Unidad 3/Tabla comparativa",
+    "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U1_Actividad 1.3.Instalar Elementary OS en VirtualBox.pdf",
+    "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U1_Doc de desarmado de computadoras.pdf",
+    "Bienvenido.md",
     "Comparación de computadoras.md",
+    "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia2.md",
     "Pasted image 20241107082427.png",
     "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia5.md",
     "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia4.md",
     "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia2.md",
-    "Arquitectura de Computadoras/Unidad 1/ZDM_AC_U1_Dia1.md",
-    "Arquitectura de Computadoras/Unidad 3/ZDJM_AC_U3_DIFERENCIA ENTRE GPU Y CPU.md",
     "Telecomunicaciones/Unidad4/Diagrama de Antena.md",
     "Telecomunicaciones/Unidad4/Capturas.md",
     "Pasted image 20241029082532.png",
     "Pasted image 20241029082435.png",
     "Pasted image 20241029082351.png",
-    "Pasted image 20241029082312.png",
-    "Pasted image 20241029082223.png",
-    "Pasted image 20241029082125.png",
-    "Pasted image 20241029082109.png",
-    "Pasted image 20241029082047.png",
-    "Pasted image 20241029082026.png",
     "Telecomunicaciones/Unidad4",
-    "Arquitectura de Computadoras/Unidad 2/ZDJM_AC_U2_Actividad 2.1 y 2.2_Dia2.md",
     "Arquitectura de Computadoras/Unidad 3",
-    "Arquitectura de Computadoras/Unidad 2/ZDJM_AC_U2_Actividad 2.2 Definición de procesadores.md",
     "Arquitectura de Computadoras/Unidad 2/Z_AC_U2_EXAMEN.pdf",
-    "Arquitectura de Computadoras/Unidad 2/ZDM_AC_U2_Dia1.md",
-    "Arquitectura de Computadoras/Unidad 2/ZDJM_AC_U2_Dia1.md",
-    "Arquitectura de Computadoras/Unidad 2/ZDJM_AC_U3_Dia3.md",
-    "Telecomunicaciones/Unidad3/Apuntes de fibra optica.md",
-    "Bienvenido.md",
     "Arquitectura de Computadoras/Unidad 3",
-    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia5.md",
     "Telecomunicaciones/Unidad2/ZDJM_T_U2_Actividad 2.3. Lectura de la unidad.pdf",
-    "Telecomunicaciones/ZDJM_T_U2_Actividad 2.3. Lectura de la unidad.pdf",
-    "Telecomunicaciones/mso5476.tmp",
-    "Arquitectura de Computadoras/Unidad 1/ZDJM_AC_U1_Doc de desarmado de computadoras.pdf",
-    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Investigacion.pdf",
-    "Telecomunicaciones/Unidad2/ZDM_T_U2_Dia3.md",
-    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia1.md",
-    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia4.md",
-    "Telecomunicaciones/Unidad2/ZDJM_T_U2_Dia2.md",
-    "Telecomunicaciones/Unidad2/ZDJM_AC_U2_Investigacion.pdf",
-    "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia5.md",
-    "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia3.md",
-    "Telecomunicaciones/Unidad1/ZDJM_T_U1_Dia1.md"
+    "Telecomunicaciones/ZDJM_T_U2_Actividad 2.3. Lectura de la unidad.pdf"
   ]
 }
